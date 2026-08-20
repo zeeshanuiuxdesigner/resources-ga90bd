@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeeshanuiuxdesigner.github.io/resources-ga90bd/sitemap.xml
